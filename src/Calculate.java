@@ -281,9 +281,7 @@ public class Calculate {
                          //Bir sonraki fil_koordinat sutuna gecilir
                         break;
                     }
-                    //Iki kosul da saglanmiyorsa bos gecilir
-                    else{ 
-                    }
+                    
                     //Ayni koordinat icin yeni x ve y degerleri bulunur
                     tempx=tempx+fil_koordinat[0][i];
                     tempy=tempy+fil_koordinat[1][i];
